@@ -19,11 +19,15 @@ Overview: "An interactive Dash app that visualizes personal spending patterns us
 ## How to Run It:
 
 bash
+
 git clone https://github.com/country4livin/personal-budget-dashboard.git
+
 cd personal-budget-dashboard
+
 pip install -r requirements.txt
+
 python app.py
 
-Tools Used: Python · Dash · Plotly · Pandas
+### Tools Used: Python · Dash · Plotly · Pandas
 
 Inspiration / Use Case: "Designed for individuals who want to visualize their financial health and model different budgeting strategies."
