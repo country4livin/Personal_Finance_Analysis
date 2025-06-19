@@ -26,7 +26,7 @@ cd personal-budget-dashboard
 
 pip install -r requirements.txt
 
-python app.py
+python personal_finance_dashboard.py
 
 ### Tools Used: Python · Dash · Plotly · Pandas
 
